@@ -7,6 +7,6 @@ body {
 h1{
    font-family: Arial,sans-serif;
    font-size: 30pt;
-   rgba(35,137,195,.8);
+   rgba(35,137,195,1);
    text-shadow:2px 2px 2px black;
 }
