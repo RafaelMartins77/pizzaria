@@ -12,6 +12,21 @@ h1{
    text-align: center;
 }
 
+figure.exe{
+  border; 8px solid darkblue;
+}
+
+figcaption{
+  position: relative;
+  padding: 10px;
+  box-sizing:border-box;
+  opacity:0;
+  transition:opacity 1s;
+}
+
+figure.exe: hover figcaption{
+  opacity:1;
+}
 
   
 
